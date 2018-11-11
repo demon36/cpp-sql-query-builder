@@ -1,1 +1,6 @@
 bin
+lib
+nbproject
+obj
+*.cbp
+*.layout
