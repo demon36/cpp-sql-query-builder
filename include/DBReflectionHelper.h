@@ -10,7 +10,6 @@
 #include <map>
 #include <cassert>
 #include <memory>
-#include "Poco/Data/Common.h"
 #include "Poco/Data/SQLite/Connector.h"
 #include "Poco/Data/RecordSet.h"
 #ifdef _DEBUG
